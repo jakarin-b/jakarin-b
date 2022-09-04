@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Jakarin</h1>
 <h3>I am a programmer. this is my skill.</h3>
 
-- 🌱 I’m currently learning **java springboot , typescript nest.js, golang Gin    **
+- 🌱 I’m currently learning ** software deverloper (Backend) **
+
+<h3>My learning skill</h3>
+<p>Java: springboot , Javascript: vue.js , Typescript: nest.js(learning) , Golang: Gin(learning)</p>
 
 <h3>Contact with me: </h3>
 <p>
