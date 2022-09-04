@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **java springboot , typescript nest.js, golang Gin    **
 
-<h3>Connect with me: </h3><p>0902836578(Best)</p>
+<h3>Contact with me: </h3>
+<p>
+phone: 0902836578(Best)
+email: lalatina2944@gmail.com</p>
 <p>
 </p>
 
