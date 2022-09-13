@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ** software deverloper (Backend) **
 
 <h3>My learning skill</h3>
-<p>Java: springboot , Javascript: vue.js , Typescript: nest.js(learning) , Golang: Gin(learning)</p>
+<p>Java: springboot , Javascript: vue.js , Typescript: nest.js(learning) , Golang: Basic(learning)</p>
 
 <h3>Contact with me: </h3>
 <p>
