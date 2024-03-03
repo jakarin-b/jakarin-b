@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning ** software deverloper (Backend) **
 
 <h3>My learning skill</h3>
-<p>Java: springboot , Javascript: Vue.js(Learning) Express.js , Typescript: Nest.js , Golang: Gin</p>
+<p>Java: springboot , Javascript: Vue.js(Learning), Express.js , Typescript: Nest.js , Golang: Gin , Jenkins with docker (learning) </p>
 
 <h3>Contact with me: </h3>
 <p>
 phone: 0902836578 (Best) <br>
-email: lalatina2944@gmail.com  jakarin.b@mail.kmutt.ac.th</p>
+email: lalatina2944@gmail.com, jakarin.b@mail.kmutt.ac.th</p>
 <p>
 </p>
 
